@@ -6,6 +6,7 @@ $theme1: #33a8d1;
 @import "node_modules/bootstrap/scss/_functions";
 @import "node_modules/bootstrap/scss/_variables";
 @import "node_modules/bootstrap/scss/_mixins";
+@import "node_modules/bootstrap/scss/mixins/_breakpoints.scss";
 
 // add custom colors to the bootstrap theme
 $custom-theme-colors: (
