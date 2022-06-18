@@ -1,11 +1,13 @@
 <template>
   <div>
-
-  </div>
+     <Footer/>
+   </div>
 </template>
+
 
 
 <script>
 
 
 </script>
+
